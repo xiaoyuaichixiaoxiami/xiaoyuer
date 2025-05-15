@@ -17,7 +17,7 @@
 ![微信截图_20250514122116](https://github.com/user-attachments/assets/aab37f2a-9c5b-4ae7-be3e-0973a465826e)
 执行成功后，在节点管理中查看节点状态，若节点状态为健康且在线
 ![微信截图_20250515121945](https://github.com/user-attachments/assets/25789785-0f6c-435e-a64f-b14d17f54250)
-使用服务器IP及6081端口访问部署的浏览器，输入设置的用户名和密码
+使用服务器IP及6081端口访问部署的浏览器(http://<VPS_IP>:6081/vnc.html)，输入设置的用户名和密码
 
 ![微信图片_20250429122326](https://github.com/user-attachments/assets/5650350b-549b-403b-80ff-9a0aeed9c190)
 
